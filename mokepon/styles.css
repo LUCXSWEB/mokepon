@@ -2,11 +2,11 @@
 
 body{
     font-family: "Poppins", sans-serif;
-    background-image: url("assets/Arena\ Pokemon.jpg");
-    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
-    background-position: center; /* Centra la imagen en el fondo */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    z-index: -1; /* Asegura que la imagen esté detrás del contenido */    
+    background-image: url("assets/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;    
 }
 
 #seleccionar-mascota{
