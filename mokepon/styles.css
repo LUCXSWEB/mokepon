@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 body{
-    font-family: "Pixelify Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     background-image: url("assets/Arena\ Pokemon.jpg");
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-position: center; /* Centra la imagen en el fondo */
